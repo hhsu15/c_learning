@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#Compile and execute c program
+file=${1}
+make $file
+./$file
