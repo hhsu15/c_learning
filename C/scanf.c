@@ -19,6 +19,12 @@ int main()
     else {
     	printf("Age is equal to 18\n");
 	}
+    
+	char name[4];
+	printf("What is your name?\n ");
+    scanf("%s", &name);
+    printf("Hello, %s\n", name);
+
 
 return 0;
 }

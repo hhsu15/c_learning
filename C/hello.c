@@ -7,7 +7,7 @@ This is c lanages code example
 int main() //entry point - must have one and only function
 {
 	//print function with placeholders
-	printf("Hello World!!\n"); //print has to be double quote
+	printf("Hello world!!\n"); //print has to be double quote
     printf("%f\n",18.2); //float
     printf("%d\n",18);  //integer
     printf("%ld\n",123213123121); //large int
